@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReSaleFinds - Electronics & Watches</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ReSaleFinds</h1>
+        <p>Your Source for Quality Electronics & Watches</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>ReSaleFinds specializes in high-quality, affordable electronics and watches. We take pride in offering the best deals on pre-owned gadgets.</p>
+    </section>
+
+    <section id="products">
+        <h2>Product Showcase</h2>
+        <div class="product-gallery">
+            <div class="product">
+                <img src="images/watch1.jpg" alt="Smart Watch">
+                <p>Smart Watch - $150</p>
+            </div>
+            <div class="product">
+                <img src="images/phone.jpg" alt="Smartphone">
+                <p>Latest Smartphone - $400</p>
+            </div>
+            <div class="product">
+                <img src="images/laptop.jpg" alt="Laptop">
+                <p>Gaming Laptop - $850</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@resalefinds.com</p>
+        <p>Follow us on <a href="#">Instagram</a> & <a href="#">Facebook</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ReSaleFinds. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
